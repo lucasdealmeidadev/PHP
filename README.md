@@ -1,3 +1,3 @@
 # PHP
 
-Repositório criado para estudo da linguagem
+Repositório criado para estudo da Linguagem PHP
